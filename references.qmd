@@ -1,0 +1,25 @@
+# References
+* [course 19 of fast.ai](https://course19.fast.ai/index.html)
+* [fast.ai course](https://course.fast.ai/)
+
+## Course Notebooks
+* [Fast.ai stable diffusion course notebooks](https://github.com/fastai/course22p2)
+* [John Whitaker stable diffusion notebooks](https://github.com/fastai/diffusion-nbs)
+
+
+## Understanding Maths
+* [Greek Alphabets](https://en.wikipedia.org/wiki/Greek_alphabet)
+* [Methamatics symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#Other_brackets)
+* [LatexOCR](https://github.com/lukas-blecher/LaTeX-OCR)
+* [Greek Letters for Deep Learning](https://ankiweb.net/shared/info/2118139507)
+* [detexify - Draw a symbol and it will tell what the symbol is](https://detexify.kirelabs.org/classify.html)
+
+
+
+## Diffusion
+* [Jeremy Stable Diffusion Notes](https://rekil156.github.io/rekilblog/posts/lesson9_stableDissufion/Lesson9.html)
+
+
+## AI Art
+* [Tools for AI art](https://pharmapsychotic.com/tools.html)
+  
